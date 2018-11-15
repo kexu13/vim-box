@@ -40,7 +40,7 @@ $ mkdir ~/.vim
 
 $ cd ~/.vim
 
-$ git clone https://github.com/chawuciren/vim-box.git ./
+$ git clone https://github.com/kexu13/vim-box.git ./
 
 $ rm ~/.vimrc
 
